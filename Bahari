@@ -57,15 +57,17 @@ https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Okey" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="ASTRO1",Okey
 https://rtm2hdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 #EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="ASTRO1",Awesome TV
-#http://iptv.tvmalaysia.cc/jalan8/jalan8/9016
-http://iptv.tvmalaysia.cc:80/297340/297340/9016
-http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://iptv.tvmalaysia.cc:80/321456/321456/9016
+<!--http://iptv.tvmalaysia.cc/jalan8/jalan8/9016
+<!--http://iptv.tvmalaysia.cc:80/297340/297340/9016
+<!--http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 #EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="ASTRO1",DRAMA SANGAT
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="ASTRO1",Alhijrah
 http://iptv.tvmalaysia.cc:80/422072/422072/6834
 <!--http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="http://tvmalaysia.cc:80/images/dbdc90d36fb0cb6ff75fa4f8fbd8dc96.png" group-title="ASTRO1",Alhijrah2
+http://iptv.tvmalaysia.cc:80/321456/321456/6834
 #EXTINF:-1 tvg-id="TVIkim.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="ASTRO1",TV Ikim FHD
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Bernama_%28logo%29.jpg",BERNAMA
@@ -83,7 +85,8 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO1" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
 http://iptv.tvmalaysia.cc:80/422072/422072/6730
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-
+#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO1" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA2
+http://iptv.tvmalaysia.cc:80/321456/321456/6730
 #EXTINF:-1 group-title="ASTRO1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest/scale-to-width-down/293?cb=20190111152445",Astro Prima
 http://iptv.tvmalaysia.cc:80/422072/422072/6727
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
