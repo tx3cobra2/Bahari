@@ -1,4 +1,4 @@
-ShamBentong Channel
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz" billed-msg="⛔.ShamTxShark Admin Channel : Fight fire With Fire ⛔" $BorpasFileFormat="1" refresh="720"
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
